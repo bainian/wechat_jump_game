@@ -19,7 +19,9 @@ adb pull /sdcard/autojump.png .
 
 3. 计算按压时间
   * 手动版：用 Matplotlib 显示截图，用鼠标先点击起始点位置，然后点击目标位置，计算像素距离；
+   * ggggg
   * 自动版：靠棋子的颜色来识别棋子，靠底色和方块的色差来识别棋盘；
+   * hhhhh
 
 4. 用 ADB 工具点击屏幕蓄力一跳
 ```shell
